@@ -1,0 +1,217 @@
+body {
+  background-color: #f5f7fa;
+  font-family: 'Montserrat', sans-serif;
+}
+
+li {
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  padding: 0;
+  margin: 0;
+}
+
+h1,
+h2 {
+  margin: auto;
+}
+
+h3 {
+  font-weight: 700;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+h4 {
+  margin: 0 0 11px 0;
+  padding: 0;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+}
+
+h5 {
+  margin: 0 0 12px 0;
+  padding: auto;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  margin: auto;
+  line-height: 24px;
+}
+
+.Main_container {
+  display: flex;
+  flex-direction: row-reverse;
+  width: 1200px;
+  background-color: #fff;
+  margin: 40px auto;
+  box-shadow: 6px 6px 20px rgba(0, 0, 0, 0.1);
+}
+
+.Color_name {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fb6d3a;
+}
+
+/* Main section */
+
+.Main_content {
+  display: flex;
+  flex-direction: column;
+  padding: 100px 90px;
+  width: 650px;
+}
+
+.My_profession {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 17px;
+  color: #000000;
+  margin-bottom: 19px;
+}
+
+.My_name {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  color: #000000;
+  margin-bottom: 24px;
+}
+
+.About_me_descriprion {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  width: 500px;
+}
+
+.About_me {
+  margin-bottom: 65px;
+}
+
+/* Projects */
+.My_project {
+  margin-bottom: 25px;
+}
+
+.My_project_list {
+  padding: 0 0 0 20px;
+  margin: auto;
+}
+
+.My_project_item {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.Item_link {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+  margin-left: 5px;
+}
+
+.Item_box {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #000000;
+}
+
+.Item_link_text {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #595959;
+}
+
+/* Work */
+.My_works {
+  margin-bottom: 25px;
+}
+
+.My_work_item {
+  margin-bottom: 20px;
+}
+
+.Period {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+  margin-bottom: 8px;
+}
+
+.Separator {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #000000;
+}
+
+/* Education */
+.Period_Education {
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 15px;
+  color: #a8a8a8;
+}
+
+/* Aside bar section */
+
+.Aside_bar {
+  background-color: #1e2939;
+  width: 370px;
+  padding: 40px 0px;
+}
+
+.Aside_block {
+  margin: 50px 40px;
+}
+
+h3.Aside_headers {
+  color: #fff;
+}
+
+.Contact_type {
+  font-weight: 700;
+  font-size: 14px;
+  line-height: 24px;
+  color: #fff;
+  margin-right: 7px;
+}
+
+.Contacts {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  color: #ffffff;
+  opacity: 0.5;
+}
+
+li.Aside_li {
+  color: #fb6d3a;
+}
+
+.Aside_li_text {
+  color: #fff;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 24px;
+  padding: 0;
+  margin: 0;
+}
